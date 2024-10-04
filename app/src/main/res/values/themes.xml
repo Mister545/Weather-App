@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.WeatherApp" parent="Theme.AppCompat.NoActionBar" />
+<!--    <item name="windowActionBar" type="drawable">false</item>-->
+<!--    <item name="windowNoTitle" type="drawable">true</item>-->
+    <item name="colorPrimaryVariant" type="drawable">@color/status_bar</item>
+
+</resources>
